@@ -28,6 +28,10 @@ import ControlledComp from "./ControlledComp";
 import HighOrderComp from "./HighOrderComp";
 import BasicRouting from './BasicRouting';
 import DynamicRouting from "./Routing/DynamicRouting";
+import GetAPI from "./API/GetAPI";
+import PostAPI from './API/PostAPI'
+import DeleteAPI from "./API/DeleteAPI";
+import PreFilledForm from './API/PreFilledForm';
 
 function App() {
   let item = 'Shubham';
@@ -98,7 +102,11 @@ function App() {
       {/* <ControlledComp/> */}
       {/* <HighOrderComp/> */}
       {/* <BasicRouting/> */}
-      <DynamicRouting/>
+      {/* <DynamicRouting/> */}
+      {/* <GetAPI/> */}
+      {/* <PostAPI/> */}
+      {/* <DeleteAPI/> */}
+      <PreFilledForm/>
     </div>
   );
 }

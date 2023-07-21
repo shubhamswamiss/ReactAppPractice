@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Prakash",
+      "author": "Json"
+    },
+    {
+      "id": 2,
+      "title": "Vikas",
+      "author": "Gore"
+    },
+    {
+      "id": 3,
+      "title": "Akash",
+      "author": "Thakre"
+    },
+    {
+      "id": 4,
+      "title": "Anil",
+      "author": "Shinde"
+    },
+    {
+      "id": 5,
+      "title": "Sunil",
+      "author": "Pawar"
+    }
+  ]
+}
